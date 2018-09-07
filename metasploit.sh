@@ -69,6 +69,8 @@ createdb msf_database
 
 rm $msfpath/$msfvar.tar.gz
 apt-get install figlet
+apt-get update
+apt-get upgrade
 clear
 figlet Meoww.
 echo" Facebook : facebook.com/meowwyaww.cat.ph/\n Github : github.com/JaysonSky/ "
