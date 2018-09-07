@@ -72,6 +72,6 @@ apt-get install figlet
 apt-get update
 apt-get upgrade
 clear
-figlet Meoww.
+figlet ~Meoww.
 echo" Facebook : facebook.com/meowwyaww.cat.ph/\n Github : github.com/JaysonSky/ "
 echo " type a command : msfvenom or msfconsole rather than ./msfvenom or ./msfconsole."
