@@ -72,4 +72,4 @@ apt-get install figlet
 clear
 figlet Meoww.
 echo" Facebook : facebook.com/meowwyaww.cat.ph/\n Github : github.com/JaysonSky/ "
-echo "you can directly use msfvenom or msfconsole rather than ./msfvenom or ./msfconsole."
+echo " type a command : msfvenom or msfconsole rather than ./msfvenom or ./msfconsole."
